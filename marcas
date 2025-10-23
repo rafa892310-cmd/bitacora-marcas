@@ -1,0 +1,24 @@
+imagenes-marcas/
+│
+├── samsung/
+│   └── .gitkeep
+│
+├── redmi/
+│   └── .gitkeep
+│
+├── poco/
+│   └── .gitkeep
+│
+├── motorola/
+│   └── .gitkeep
+│
+├── infinix/
+│   └── .gitkeep
+│
+├── zte/
+│   └── .gitkeep
+│
+├── oppo/
+│   └── .gitkeep
+│
+└── README.md
